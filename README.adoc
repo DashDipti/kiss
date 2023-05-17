@@ -1,0 +1,23 @@
+= KISS - Keep it simple, stupid.
+
+This is an attempt to keep things simple and capture lot of 'how-to-dos' activities which are done on a day to day basis by us in the Cloudera world and in general. The attempt is to simplify as much as possible.
+While tryind to do so it may become little lengthier. So, bear with me on this and happy kissing. :) 
+
+image::images/dash/hol.PNG[]
+
+'''
+
+Version : 1.0.0 `17th May 2023` +
+
+'''
+
+== Important URLs
+Click on the following URLs to know more about a specific topic.
+1. https://tinyurl.com/2awfrsa[How to Monitor Kubernetes Pods?] - While spi. +
+2. http://3.109.161.118/auth/realms/workshop/protocol/saml/clients/samlclient[] - Open this in `incognitio` mode and authenticate yourself to enter CDP. +
+3. https://www.youtube.com/watch?v=2pvxWb2vvGo[CDW Workshop (Recording)] - Watch this video for the complete walkthrough of this CDW workshop. +
+
+
+image:images/step7/56.png[] +
+
+=== This concludes the workshop. Hope you had a great time learning something new and useful.
