@@ -12,7 +12,7 @@ Version : 1.0.0 `17th May 2023` +
 '''
 
 == Important URLs
-Click on the following URLs to know more about a specific topic.
+Click on the following URLs to know more about a specific topic. +
 1. https://tinyurl.com/2awfrsa[How to Monitor Kubernetes Pods?] - While spi. +
 2. http://3.109.161.118/auth/realms/workshop/protocol/saml/clients/samlclient[] - Open this in `incognitio` mode and authenticate yourself to enter CDP. +
 3. https://www.youtube.com/watch?v=2pvxWb2vvGo[CDW Workshop (Recording)] - Watch this video for the complete walkthrough of this CDW workshop. +
